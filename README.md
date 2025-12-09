@@ -1,5 +1,5 @@
 # Hi I'm Davida💫
-A software engineer student and an aspiring game developer<br>Feel free to explore my projects and reach out if you'd like to collaborate!<br><br>Follow my github and linkedin accounts ^_^<br><br>
+A software engineering student and an aspiring game developer<br>Diving into game development looking foward to creating something awesome!🎮<br>Feel free to explore my projects and reach out if you'd like to collaborate!<br><br>Follow my github and linkedin accounts ^_^<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Davibyte&label=Profile%20views&color=0e75b6&style=flat" alt="Davibyte" /> </p>
 
